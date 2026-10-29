@@ -14,7 +14,7 @@
 
 Sou estudante de **Engenharia de Software na UniBrasil** e graduado em **Ciências Contábeis**. Minha trajetória combina desenvolvimento de aplicações, integrações via APIs REST, automação de processos e suporte em TI.
 
-Atualmente, sou **Estagiário de Suporte em TI no Grupo O Boticário**, apoiando canais operacionais e o monitoramento de ambientes. Nos meus projetos, exploro como **C#/.NET, React e bancos de dados** podem trabalhar juntos para resolver problemas do dia a dia.
+Nos meus projetos, exploro como **C#/.NET, React e bancos de dados** podem trabalhar juntos para resolver problemas do dia a dia.
 
 - **Desenvolvimento:** aplicações web, integrações e digitalização de fluxos.
 - **Operação:** suporte a usuários, análise de requisitos e acompanhamento de ambientes.
